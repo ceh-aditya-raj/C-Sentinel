@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>C-Sentinel | Static C Analyzer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <!-- Monaco Loader -->
+    <script src="https://cdn.jsdelivr.net/npm/monaco-editor@0.45.0/min/vs/loader.js"></script>
+
+
+    <link rel="stylesheet" href="/static/css/style.css" />
+
+    <style>
+        body {
+            margin: 0;
+            background: #0f1115;
+            color: #e6e8eb;
+            font-family: Inter, system-ui, sans-serif;
+        }
+
+        header {
+            padding: 16px 24px;
+            border-bottom: 1px solid #252b36;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .container {
+            padding: 24px;
+            max-width: 1400px;
+            margin: auto;
+        }
+
+        .upload-bar {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .upload-bar input,
+        .upload-bar button {
+            background: #161a22;
+            color: #e6e8eb;
+            border: 1px solid #252b36;
+            padding: 8px 12px;
+        }
+
+        .panel {
+            border: 1px solid #252b36;
+            background: #161a22;
+            margin-bottom: 16px;
+        }
+
+        .panel-header {
+            padding: 12px 16px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .panel-content {
+            display: none;
+            padding: 16px;
+            border-top: 1px solid #252b36;
+        }
+
+        .panel.open .panel-content {
+            display: block;
+        }
+
+        #code-editor,
+        #ast-editor {
+            height: 420px;
+            border: 1px solid #252b36;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            border-bottom: 1px solid #252b36;
+            font-size: 13px;
+        }
+
+        .placeholder {
+            color: #9aa4b2;
+        }
+
+        .vuln-card {
+            border: 1px solid #2a2f3a;
+            background: #121620;
+            padding: 12px 14px;
+            margin-bottom: 12px;
+            border-radius: 4px;
+        }
+
+        .vuln-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .vuln-severity {
+            color: #ff5f5f;
+        }
+
+        .severity-critical .vuln-severity {
+            color: #ff4d4d;
+        }
+
+        .severity-high .vuln-severity {
+            color: #ff944d;
+        }
+
+        .severity-medium .vuln-severity {
+            color: #ffd24d;
+        }
+
+        .vuln-body {
+            font-size: 13px;
+            color: #cfd6e4;
+        }
+
+        .vuln-message {
+            margin-top: 6px;
+            color: #e6e8eb;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        C-Sentinel · Static C Code Analyzer
+    </header>
+
+    <div class="container">
+
+        <div class="upload-bar">
+            <input type="file" id="fileInput" accept=".c" />
+            <button id="analyzeBtn">Analyze</button>
+        </div>
+
+        <!-- Preprocessed Code -->
+        <div class="panel open">
+            <div class="panel-header">
+                <span>Preprocessed Code</span><span>▼</span>
+            </div>
+            <div class="panel-content">
+                <div id="code-editor"></div>
+            </div>
+        </div>
+
+        <!-- Tokens -->
+        <div class="panel">
+            <div class="panel-header">
+                <span>Token Stream</span><span>▼</span>
+            </div>
+            <div class="panel-content">
+                <table id="tokenTable">
+                    <thead>
+                        <tr>
+                            <th>Line</th>
+                            <th>Col</th>
+                            <th>Type</th>
+                            <th>Value</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- AST -->
+        <div class="panel">
+            <div class="panel-header">
+                <span>Abstract Syntax Tree (AST)</span>
+                <span class="chevron">▼</span>
+            </div>
+
+            <div class="panel-content">
+                <div id="ast-editor" style="height: 400px; border: 1px solid #252b36;"></div>
+            </div>
+        </div>
+
+        <!-- Control Flow Graph -->
+        <div class="panel">
+            <div class="panel-header">
+                <span>Control Flow Graph (CFG)</span>
+                <span class="chevron">▼</span>
+            </div>
+
+            <div class="panel-content">
+                <div id="cfgContainer" class="mermaid" style="text-align: center; background: #0f1115; overflow: auto;">
+                    %% Graph will appear here
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- Vulnerabilities -->
+        <div class="panel">
+            <div class="panel-header">
+                <span>Vulnerability Report</span>
+                <span class="chevron">▼</span>
+            </div>
+
+            <div class="panel-content">
+                <div id="vulnContainer">
+                    <div class="placeholder">No vulnerabilities detected</div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Mermaid.js (Local v9.4.3) -->
+        <!-- Hack: Disable AMD define temporarily to force Mermaid to global scope -->
+        <script>
+            var _tempDefine = window.define;
+            window.define = undefined;
+        </script>
+        <script src="/static/js/mermaid.min.js"></script>
+        <script>
+            window.define = _tempDefine;
+            if (typeof mermaid !== 'undefined') {
+                mermaid.initialize({ startOnLoad: false, theme: 'dark' });
+            } else {
+                console.error("Mermaid failed to load even with AMD hack.");
+            }
+        </script>
+        <script src="/static/js/app.js"></script>
+
+        <script>
+            document.querySelectorAll(".panel-header").forEach(h => {
+                h.addEventListener("click", () => {
+                    h.parentElement.classList.toggle("open");
+                    setTimeout(() => {
+                        if (window.codeEditor && typeof window.codeEditor.layout === "function") {
+                            window.codeEditor.layout();
+                        }
+                        if (window.astEditor && typeof window.astEditor.layout === "function") {
+                            window.astEditor.layout();
+                        }
+                    }, 0);
+                });
+            });
+        </script>
+
+</body>
+
+</html>

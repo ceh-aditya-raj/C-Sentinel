@@ -1,0 +1,124 @@
+/* Token Table */
+.token-container {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+#tokenTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+#tokenTable th,
+#tokenTable td {
+  padding: 6px 8px;
+  border-bottom: 1px solid #252b36;
+  text-align: left;
+}
+
+#tokenTable th {
+  position: sticky;
+  top: 0;
+  background: #161a22;
+  font-weight: 600;
+}
+
+.token-type {
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+/* Token colors */
+.token-IDENTIFIER { background: #1e293b; color: #93c5fd; }
+.token-KEYWORD    { background: #172554; color: #60a5fa; }
+.token-LITERAL    { background: #422006; color: #facc15; }
+.token-OPERATOR   { background: #3f1d0b; color: #fb923c; }
+
+
+/* AST Tree */
+.ast-tree {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px;
+  line-height: 1.6;
+  max-height: 350px;
+  overflow-y: auto;
+}
+
+.ast-node {
+  margin-left: 14px;
+}
+
+.ast-label {
+  cursor: pointer;
+  user-select: none;
+  color: #93c5fd;
+}
+
+.ast-children {
+  margin-left: 16px;
+  border-left: 1px dashed #2a2f3a;
+  padding-left: 10px;
+  display: none;
+}
+
+.ast-node.open > .ast-children {
+  display: block;
+}
+
+.ast-node.open > .ast-label::before {
+  content: "▼ ";
+}
+
+.ast-label::before {
+  content: "▶ ";
+  color: #64748b;
+}
+
+.ast-truncated {
+  color: #64748b;
+  font-style: italic;
+  margin-left: 18px;
+}
+
+.vuln-card {
+  border: 1px solid #2a2f3a;
+  background: #121620;
+  padding: 12px 14px;
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
+
+.vuln-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.vuln-severity {
+  color: #ff5f5f;
+}
+
+.severity-critical .vuln-severity {
+  color: #ff4d4d;
+}
+
+.severity-high .vuln-severity {
+  color: #ff944d;
+}
+
+.severity-medium .vuln-severity {
+  color: #ffd24d;
+}
+
+.vuln-body {
+  font-size: 13px;
+  color: #cfd6e4;
+}
+
+.vuln-message {
+  margin-top: 6px;
+  color: #e6e8eb;
+}

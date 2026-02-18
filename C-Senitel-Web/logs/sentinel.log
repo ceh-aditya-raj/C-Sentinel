@@ -1,0 +1,466 @@
+2026-02-11 18:36:19,931 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: temp_test_cfg.c
+2026-02-11 18:36:19,931 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:36:19,931 - INFO - c_sentinel.phase2 - Phase 2 successful: original=147 cleaned=147
+2026-02-11 18:36:19,932 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:36:19,933 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 45
+2026-02-11 18:36:19,933 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:36:19,938 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:37:07,956 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: temp_test_cfg.c
+2026-02-11 18:37:07,957 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:37:07,957 - INFO - c_sentinel.phase2 - Phase 2 successful: original=147 cleaned=147
+2026-02-11 18:37:07,957 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:37:07,959 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 45
+2026-02-11 18:37:07,959 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:37:07,964 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:37:51,527 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: temp_test_cfg.c
+2026-02-11 18:37:51,527 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:37:51,527 - INFO - c_sentinel.phase2 - Phase 2 successful: original=147 cleaned=147
+2026-02-11 18:37:51,528 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:37:51,529 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 45
+2026-02-11 18:37:51,529 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:37:51,533 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:46:22,488 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp2dmoge9v.c
+2026-02-11 18:46:22,519 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:46:22,521 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:46:22,522 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:46:22,546 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:46:22,548 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:46:22,573 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:48:07,187 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp87ut9s3k.c
+2026-02-11 18:48:07,190 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:48:07,191 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:48:07,191 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:48:07,198 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:48:07,201 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:48:07,211 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:49:23,859 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpc9ojye1t.c
+2026-02-11 18:49:23,865 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:49:23,867 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:49:23,868 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:49:23,881 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:49:23,883 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:49:23,904 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:50:48,421 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp_c1z4_4o.c
+2026-02-11 18:50:48,423 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:50:48,425 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:50:48,425 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:50:48,431 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:50:48,434 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:50:48,443 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:51:13,058 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp9wtmlvmt.c
+2026-02-11 18:51:13,062 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:51:13,063 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:51:13,063 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:51:13,070 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:51:13,071 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:51:13,084 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:53:37,371 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmprl0_rfeg.c
+2026-02-11 18:53:37,374 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:53:37,377 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:53:37,378 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:53:37,385 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:53:37,387 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:53:37,398 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:54:04,728 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp9u46aits.c
+2026-02-11 18:54:04,730 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:54:04,731 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:54:04,733 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:54:04,738 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:54:04,740 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:54:04,751 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:57:42,962 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpowsf3mh3.c
+2026-02-11 18:57:42,966 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:57:42,967 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:57:42,968 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:57:42,974 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:57:42,977 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:57:42,987 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 18:59:56,169 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpfonu_sty.c
+2026-02-11 18:59:56,171 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 18:59:56,172 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 18:59:56,172 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 18:59:56,179 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 18:59:56,183 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 18:59:56,195 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:01:03,772 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp60k93upq.c
+2026-02-11 19:01:03,775 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:01:03,777 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:01:03,778 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:01:03,783 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:01:03,786 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:01:03,796 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:02:38,560 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmppzkr48py.c
+2026-02-11 19:02:38,563 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:02:38,564 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:02:38,565 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:02:38,573 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:02:38,574 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:02:38,584 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:07:09,116 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpoe9uit53.c
+2026-02-11 19:07:09,122 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:07:09,124 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:07:09,126 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:07:09,139 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:07:10,911 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpe9qf9a4z.c
+2026-02-11 19:07:10,915 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:07:10,917 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:07:10,919 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:07:10,927 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:07:11,637 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpqrhcqe6r.c
+2026-02-11 19:07:11,641 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:07:11,643 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:07:11,645 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:07:11,653 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:07:11,859 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpufdo253s.c
+2026-02-11 19:07:11,865 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:07:11,866 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:07:11,867 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:07:11,879 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:08:25,818 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpk1sun_y1.c
+2026-02-11 19:08:25,823 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:08:25,825 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:08:25,826 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:08:25,864 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:08:32,252 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpcqnwayos.c
+2026-02-11 19:08:32,254 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:08:32,255 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:08:32,256 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:08:32,261 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:10:23,063 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: temp_test_cfg.c
+2026-02-11 19:10:23,064 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:10:23,064 - INFO - c_sentinel.phase2 - Phase 2 successful: original=147 cleaned=147
+2026-02-11 19:10:23,064 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:10:23,065 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 45
+2026-02-11 19:10:23,065 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:10:23,071 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:11:49,723 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpi1gq5yoo.c
+2026-02-11 19:11:49,734 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:11:49,734 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-11 19:11:49,734 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:11:49,737 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-11 19:11:49,737 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:11:49,742 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TYPEDEF (value='typedef') line=3
+2026-02-11 19:11:49,742 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token RBRACE (value='}') line=5
+2026-02-11 19:11:49,742 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token RBRACE (value='}') line=10
+2026-02-11 19:11:49,742 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token RBRACE (value='}') line=14
+2026-02-11 19:11:49,743 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='obj') line=35
+2026-02-11 19:11:49,743 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:13:31,319 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpf5pi32a2.c
+2026-02-11 19:13:31,321 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:13:31,321 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-11 19:13:31,321 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:13:31,323 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-11 19:13:31,323 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:13:31,327 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LBRACE (value='{') line=3
+2026-02-11 19:13:31,327 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token RBRACE (value='}') line=4
+2026-02-11 19:13:31,329 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token RBRACE (value='}') line=9
+2026-02-11 19:13:31,329 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token RBRACE (value='}') line=13
+2026-02-11 19:13:31,330 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='obj') line=34
+2026-02-11 19:13:31,330 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:14:28,419 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp39wwxboe.c
+2026-02-11 19:14:28,422 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:14:28,422 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-11 19:14:28,423 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:14:28,425 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-11 19:14:28,425 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:14:28,431 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='M1') line=8
+2026-02-11 19:14:28,431 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token RBRACE (value='}') line=10
+2026-02-11 19:14:28,433 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='obj') line=35
+2026-02-11 19:14:28,433 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:18:00,214 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp3_w_0_07.c
+2026-02-11 19:18:00,216 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:18:00,217 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-11 19:18:00,217 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:18:00,219 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-11 19:18:00,219 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:18:00,227 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:25:29,878 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpm12_ihw7.c
+2026-02-11 19:25:29,884 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:25:29,886 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:25:29,887 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:25:29,926 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:25:29,929 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:25:29,948 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:28:43,936 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpsf5sr6oi.c
+2026-02-11 19:28:43,938 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:28:43,940 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:28:43,941 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:28:43,945 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:28:43,948 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:28:43,958 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:28:53,299 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmppj2c4lhi.c
+2026-02-11 19:28:53,304 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:28:53,306 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:28:53,307 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:28:53,317 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:28:53,321 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:28:53,338 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:29:26,775 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpc9reyhmx.c
+2026-02-11 19:29:26,778 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:29:26,781 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:29:26,782 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:29:26,790 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:29:26,792 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:29:26,807 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:31:50,872 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmplul7ltsn.c
+2026-02-11 19:31:50,875 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:31:50,876 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:31:50,877 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:31:50,884 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:31:50,885 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:31:50,896 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:35:43,260 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpaafk0640.c
+2026-02-11 19:35:43,291 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:35:43,292 - INFO - c_sentinel.phase2 - Phase 2 successful: original=886 cleaned=615
+2026-02-11 19:35:43,292 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:35:43,296 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 109
+2026-02-11 19:35:43,296 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:35:43,302 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:35:59,464 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpn_ah7k93.c
+2026-02-11 19:35:59,486 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:35:59,487 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-11 19:35:59,487 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:35:59,492 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-11 19:35:59,493 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:35:59,503 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:36:23,012 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpxy8yi9se.c
+2026-02-11 19:36:23,017 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:36:23,020 - INFO - c_sentinel.phase2 - Phase 2 successful: original=2481 cleaned=1558
+2026-02-11 19:36:23,021 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:36:23,029 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 377
+2026-02-11 19:36:23,032 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:36:23,053 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:52:01,599 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmphg3f_cbm.c
+2026-02-11 19:52:01,634 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:52:01,636 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-11 19:52:01,637 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:52:01,646 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-11 19:52:01,652 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:52:01,655 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='MAX_USERS') line=13
+2026-02-11 19:52:01,657 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-11 19:52:01,662 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-11 19:52:01,662 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-11 19:52:01,663 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-11 19:52:01,667 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token SWITCH (value='switch') line=126
+2026-02-11 19:52:01,668 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:52:26,167 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmppiln8k5t.c
+2026-02-11 19:52:26,170 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:52:26,171 - INFO - c_sentinel.phase2 - Phase 2 successful: original=886 cleaned=615
+2026-02-11 19:52:26,171 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:52:26,175 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 109
+2026-02-11 19:52:26,175 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:52:26,181 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:52:40,324 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmprm8oekfj.c
+2026-02-11 19:52:40,326 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:52:40,328 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-11 19:52:40,329 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:52:40,334 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-11 19:52:40,338 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-11 19:52:40,340 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='MAX_USERS') line=13
+2026-02-11 19:52:40,341 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-11 19:52:40,343 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-11 19:52:40,344 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-11 19:52:40,344 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-11 19:52:40,347 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token SWITCH (value='switch') line=126
+2026-02-11 19:52:40,348 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-11 19:53:33,311 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpj8ls59pp.c
+2026-02-11 19:53:33,315 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:53:33,317 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-11 19:53:33,317 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:53:33,324 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-11 19:53:34,970 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp71ek5log.c
+2026-02-11 19:53:34,973 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:53:34,975 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-11 19:53:34,975 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:53:34,981 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-11 19:53:39,744 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp9wthetkl.c
+2026-02-11 19:53:39,747 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:53:39,748 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-11 19:53:39,749 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:53:39,756 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-11 19:53:46,755 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpza8hvphy.c
+2026-02-11 19:53:46,756 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-11 19:53:46,758 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-11 19:53:46,758 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-11 19:53:46,761 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:09:17,903 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpupj8rv5j.c
+2026-02-19 00:09:17,936 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:09:17,937 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:09:17,938 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:09:17,962 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:09:17,984 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:09:17,991 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='MAX_USERS') line=13
+2026-02-19 00:09:17,992 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:09:17,994 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:09:17,994 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:09:17,994 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:09:17,996 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token SWITCH (value='switch') line=126
+2026-02-19 00:09:17,997 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:24:12,417 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp4vs193rn.c
+2026-02-19 00:24:12,425 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:24:12,425 - INFO - c_sentinel.phase2 - Phase 2 successful: original=886 cleaned=615
+2026-02-19 00:24:12,426 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:24:12,427 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 109
+2026-02-19 00:24:12,427 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:24:12,431 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:26:18,002 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpfqpict63.c
+2026-02-19 00:26:18,004 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:26:18,005 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:26:18,005 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:26:18,009 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:26:18,040 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:26:18,046 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='MAX_USERS') line=13
+2026-02-19 00:26:18,046 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:26:18,049 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:26:18,049 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:26:18,049 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:26:18,051 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token SWITCH (value='switch') line=126
+2026-02-19 00:26:18,052 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:27:50,788 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp8yw1d6zp.c
+2026-02-19 00:27:50,789 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:27:50,789 - INFO - c_sentinel.phase2 - Phase 2 successful: original=886 cleaned=615
+2026-02-19 00:27:50,789 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:27:50,790 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 109
+2026-02-19 00:27:50,790 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:27:50,795 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:27:50,799 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmptytt523n.c
+2026-02-19 00:27:50,806 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:27:50,806 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-19 00:27:50,806 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:27:50,807 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-19 00:27:50,808 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:27:50,811 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:28:54,851 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp8o20_nff.c
+2026-02-19 00:28:54,852 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:28:54,854 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:28:54,854 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:28:54,873 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:28:54,907 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:28:54,912 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='MAX_USERS') line=13
+2026-02-19 00:28:54,914 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:28:54,916 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:28:54,916 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:28:54,916 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:28:54,917 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token SWITCH (value='switch') line=126
+2026-02-19 00:28:54,918 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:30:58,074 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpn_7h6oms.c
+2026-02-19 00:30:58,075 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:30:58,076 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:30:58,077 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:30:58,083 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:30:58,106 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:30:58,111 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token IDENTIFIER (value='MAX_USERS') line=13
+2026-02-19 00:30:58,111 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:30:58,112 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:30:58,112 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:30:58,112 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:30:58,114 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token SWITCH (value='switch') line=126
+2026-02-19 00:30:58,115 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:32:20,335 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpwfknkmxl.c
+2026-02-19 00:32:20,346 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:32:20,346 - INFO - c_sentinel.phase2 - Phase 2 successful: original=255 cleaned=255
+2026-02-19 00:32:20,346 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:32:20,347 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 60
+2026-02-19 00:32:20,347 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:32:20,351 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:32:28,348 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpxmurugdu.c
+2026-02-19 00:32:28,349 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:32:28,349 - INFO - c_sentinel.phase2 - Phase 2 successful: original=886 cleaned=615
+2026-02-19 00:32:28,349 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:32:28,350 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 109
+2026-02-19 00:32:28,350 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:32:28,356 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:32:28,361 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpc5kkmh0i.c
+2026-02-19 00:32:28,362 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:32:28,362 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-19 00:32:28,362 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:32:28,363 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-19 00:32:28,363 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:32:28,365 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:33:00,719 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpgn8t6djq.c
+2026-02-19 00:33:00,721 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:33:00,722 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:33:00,722 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:33:00,743 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:33:00,766 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:33:00,770 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:33:00,771 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:33:00,771 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:33:00,772 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:33:00,773 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:33:37,990 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmp4l0r5ngo.c
+2026-02-19 00:33:38,015 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:33:38,015 - INFO - c_sentinel.phase2 - Phase 2 successful: original=671 cleaned=663
+2026-02-19 00:33:38,017 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:33:38,021 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 212
+2026-02-19 00:33:38,034 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:33:38,037 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:33:59,694 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpl56hj8y0.c
+2026-02-19 00:33:59,715 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:33:59,716 - INFO - c_sentinel.phase2 - Phase 2 successful: original=886 cleaned=615
+2026-02-19 00:33:59,716 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:33:59,718 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 109
+2026-02-19 00:33:59,726 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:33:59,728 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:34:17,822 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpvofxgckl.c
+2026-02-19 00:34:17,832 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:34:17,832 - INFO - c_sentinel.phase2 - Phase 2 successful: original=147 cleaned=147
+2026-02-19 00:34:17,833 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:34:17,835 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 45
+2026-02-19 00:34:17,838 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:34:17,841 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:47:00,554 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpbq27b6rz.c
+2026-02-19 00:47:00,556 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:47:00,556 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:47:00,557 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:47:00,559 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:47:00,581 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:47:00,589 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:47:00,590 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:47:00,590 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:47:00,590 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:47:00,592 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:50:07,991 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpd1q5_cow.c
+2026-02-19 00:50:08,000 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:50:08,002 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:50:08,002 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:50:08,004 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:50:08,004 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:50:08,009 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:50:08,010 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:50:08,010 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:50:08,010 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:50:08,012 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:51:44,425 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: test.c
+2026-02-19 00:51:44,425 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:51:44,426 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:51:44,426 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:51:44,429 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:51:44,430 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:51:44,433 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=25
+2026-02-19 00:51:44,434 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token TIMES (value='*') line=71
+2026-02-19 00:51:44,434 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token LT (value='<') line=74
+2026-02-19 00:51:44,434 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token INT (value='int') line=90
+2026-02-19 00:51:44,436 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:54:58,668 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmpxvjm4ct5.c
+2026-02-19 00:54:58,668 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:54:58,669 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:54:58,669 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:54:58,672 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:54:58,673 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:54:58,680 - ERROR - c_sentinel.phase4 - Phase 4: Syntax error at token PLUS_ASSIGN (value='+=') line=91
+2026-02-19 00:54:58,681 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:55:22,486 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmppv58lshh.c
+2026-02-19 00:55:22,487 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:55:22,487 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:55:22,487 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:55:22,490 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:55:22,490 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:55:22,498 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
+2026-02-19 00:55:54,392 - INFO - c_sentinel.phase2 - Phase 2: preprocess_file called: C:\Users\RAJADI~1\AppData\Local\Temp\tmppv7c1ygd.c
+2026-02-19 00:55:54,393 - INFO - c_sentinel.phase2 - Phase 2: preprocess_code started (state-machine only)
+2026-02-19 00:55:54,394 - INFO - c_sentinel.phase2 - Phase 2 successful: original=3094 cleaned=2374
+2026-02-19 00:55:54,395 - INFO - c_sentinel.phase3 - Phase 3: lex_code started
+2026-02-19 00:55:54,399 - INFO - c_sentinel.phase3 - Phase 3: lex_code finished, tokens = 495
+2026-02-19 00:55:54,421 - INFO - c_sentinel.phase4 - Phase 4: parse_code started
+2026-02-19 00:55:54,437 - INFO - c_sentinel.phase4 - Phase 4: parse_code finished
